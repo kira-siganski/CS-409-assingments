@@ -1,0 +1,127 @@
+#
+#  Sagittarius.mtl
+#
+
+newmtl sagittarius_body
+illum 2
+Ka 0.40 0.40 0.40
+Kd 0.60 0.60 0.60
+Ks 0.20 0.20 0.20
+Ns 10.00
+map_Ka Sagittarius-Blue.bmp
+map_Kd Sagittarius-Blue.bmp
+
+newmtl sagittarius_cockpit
+illum 2
+Ka 0.60 0.60 0.60
+Kd 0.20 0.20 0.20
+Ks 0.60 0.60 0.60
+Ns 40.00
+map_Ka Sagittarius-Blue.bmp
+map_Kd Sagittarius-Blue.bmp
+
+newmtl sagittarius_rings
+# solid colour, regardless of lighting
+illum 0
+Kd 1.00 1.00 1.00
+map_Kd Sagittarius-Blue.bmp
+
+
+newmtl sagittarius_body_red
+illum 2
+Ka 0.40 0.40 0.40
+Kd 0.60 0.60 0.60
+Ks 0.20 0.20 0.20
+Ns 10.00
+map_Ka Sagittarius-Red.bmp
+map_Kd Sagittarius-Red.bmp
+
+newmtl sagittarius_cockpit_red
+illum 2
+Ka 0.60 0.60 0.60
+Kd 0.20 0.20 0.20
+Ks 0.60 0.60 0.60
+Ns 40.00
+map_Ka Sagittarius-Red.bmp
+map_Kd Sagittarius-Red.bmp
+
+newmtl sagittarius_body_purple
+illum 2
+Ka 0.40 0.40 0.40
+Kd 0.60 0.60 0.60
+Ks 0.20 0.20 0.20
+Ns 10.00
+map_Ka Sagittarius-Purple.bmp
+map_Kd Sagittarius-Purple.bmp
+
+newmtl sagittarius_body_blue
+illum 2
+Ka 0.40 0.40 0.40
+Kd 0.60 0.60 0.60
+Ks 0.20 0.20 0.20
+Ns 10.00
+map_Ka Sagittarius-Blue.bmp
+map_Kd Sagittarius-Blue.bmp
+
+newmtl sagittarius_body_cyan
+illum 2
+Ka 0.40 0.40 0.40
+Kd 0.60 0.60 0.60
+Ks 0.20 0.20 0.20
+Ns 10.00
+map_Ka Sagittarius-Cyan.bmp
+map_Kd Sagittarius-Cyan.bmp
+
+newmtl sagittarius_body_green
+illum 2
+Ka 0.40 0.40 0.40
+Kd 0.60 0.60 0.60
+Ks 0.20 0.20 0.20
+Ns 10.00
+map_Ka Sagittarius-Green.bmp
+map_Kd Sagittarius-Green.bmp
+
+newmtl sagittarius_body_yellow
+illum 2
+Ka 0.40 0.40 0.40
+Kd 0.60 0.60 0.60
+Ks 0.20 0.20 0.20
+Ns 10.00
+map_Ka Sagittarius-Yellow.bmp
+map_Kd Sagittarius-Yellow.bmp
+
+newmtl sagittarius_body_player
+illum 2
+Ka 0.40 0.40 0.40
+Kd 0.60 0.60 0.60
+Ks 0.20 0.20 0.20
+Ns 10.00
+map_Ka Sagittarius-Player.bmp
+map_Kd Sagittarius-Player.bmp
+
+newmtl sagittarius_body_orange
+illum 2
+Ka 0.40 0.40 0.40
+Kd 0.60 0.60 0.60
+Ks 0.20 0.20 0.20
+Ns 10.00
+map_Ka Sagittarius-Orange.bmp
+map_Kd Sagittarius-Orange.bmp
+
+newmtl sagittarius_body_stem_cell
+illum 2
+Ka 0.40 0.40 0.40
+Kd 0.60 0.60 0.60
+Ks 0.20 0.20 0.20
+Ns 10.00
+map_Ka Sagittarius-StemCell.bmp
+map_Kd Sagittarius-StemCell.bmp
+
+newmtl sagittarius_body_apollo_11
+illum 2
+Ka 0.40 0.40 0.40
+Kd 0.60 0.60 0.60
+Ks 0.20 0.20 0.20
+Ns 10.00
+map_Ka Sagittarius-Apollo_11.bmp
+map_Kd Sagittarius-Apollo_11.bmp

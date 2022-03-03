@@ -1,0 +1,153 @@
+#
+#  Asteroid.mtl
+#
+
+newmtl asteroidA
+illum 1
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd AsteroidA.bmp
+
+newmtl asteroidB
+illum 1
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd AsteroidB.bmp
+
+newmtl asteroidC
+illum 1
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd AsteroidC.bmp
+
+newmtl asteroidD
+illum 1
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd AsteroidD.bmp
+
+newmtl asteroidE
+illum 1
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd AsteroidE.bmp
+
+newmtl asteroidF
+illum 1
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd AsteroidF.bmp
+
+newmtl asteroidG
+illum 1
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd AsteroidG.bmp
+
+newmtl asteroidH
+illum 1
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd AsteroidH.bmp
+
+newmtl asteroidI
+illum 1
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd AsteroidI.bmp
+
+newmtl asteroidJ
+illum 1
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd AsteroidJ.bmp
+
+newmtl asteroidK
+illum 1
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd AsteroidK.bmp
+
+newmtl asteroidL
+illum 1
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd AsteroidL.bmp
+
+newmtl asteroidM
+illum 1
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd AsteroidM.bmp
+
+newmtl asteroidN
+illum 1
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd AsteroidN.bmp
+
+newmtl asteroidO
+illum 1
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd AsteroidO.bmp
+
+newmtl asteroidP
+illum 1
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd AsteroidP.bmp
+
+newmtl asteroidQ
+illum 1
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd AsteroidQ.bmp
+
+newmtl asteroidR
+illum 1
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd AsteroidR.bmp
+
+newmtl asteroidS
+illum 1
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd AsteroidS.bmp
+
+newmtl asteroidT
+illum 1
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd AsteroidT.bmp
+
+newmtl asteroidU
+illum 1
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd AsteroidU.bmp
+
+newmtl asteroidV
+illum 1
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd AsteroidV.bmp
+
+newmtl asteroidW
+illum 1
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd AsteroidW.bmp
+
+newmtl asteroidX
+illum 1
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd AsteroidX.bmp
+
+newmtl asteroidY
+illum 1
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd AsteroidY.bmp

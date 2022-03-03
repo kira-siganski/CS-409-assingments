@@ -1,0 +1,75 @@
+#
+#  Grapple.mtl
+#
+
+newmtl grapple_body
+illum 2
+Ka 0.40 0.40 0.40
+Kd 0.60 0.60 0.60
+Ks 0.20 0.20 0.20
+Ns 10.00
+map_Ka Grapple-Blue.bmp
+map_Kd Grapple-Blue.bmp
+
+newmtl grapple_body_red
+illum 2
+Ka 0.40 0.40 0.40
+Kd 0.60 0.60 0.60
+Ks 0.20 0.20 0.20
+Ns 10.00
+map_Ka Grapple-Red.bmp
+map_Kd Grapple-Red.bmp
+
+newmtl grapple_body_purple
+illum 2
+Ka 0.40 0.40 0.40
+Kd 0.60 0.60 0.60
+Ks 0.20 0.20 0.20
+Ns 10.00
+map_Ka Grapple-Purple.bmp
+map_Kd Grapple-Purple.bmp
+
+newmtl grapple_body_blue
+illum 2
+Ka 0.40 0.40 0.40
+Kd 0.60 0.60 0.60
+Ks 0.20 0.20 0.20
+Ns 10.00
+map_Ka Grapple-Blue.bmp
+map_Kd Grapple-Blue.bmp
+
+newmtl grapple_body_cyan
+illum 2
+Ka 0.40 0.40 0.40
+Kd 0.60 0.60 0.60
+Ks 0.20 0.20 0.20
+Ns 10.00
+map_Ka Grapple-Cyan.bmp
+map_Kd Grapple-Cyan.bmp
+
+newmtl grapple_body_green
+illum 2
+Ka 0.40 0.40 0.40
+Kd 0.60 0.60 0.60
+Ks 0.20 0.20 0.20
+Ns 10.00
+map_Ka Grapple-Green.bmp
+map_Kd Grapple-Green.bmp
+
+newmtl grapple_body_yellow
+illum 2
+Ka 0.40 0.40 0.40
+Kd 0.60 0.60 0.60
+Ks 0.20 0.20 0.20
+Ns 10.00
+map_Ka Grapple-Yellow.bmp
+map_Kd Grapple-Yellow.bmp
+
+newmtl grapple_body_orange
+illum 2
+Ka 0.40 0.40 0.40
+Kd 0.60 0.60 0.60
+Ks 0.20 0.20 0.20
+Ns 10.00
+map_Ka Grapple-Orange.bmp
+map_Kd Grapple-Orange.bmp

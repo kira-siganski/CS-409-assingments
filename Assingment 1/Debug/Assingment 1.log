@@ -1,0 +1,8 @@
+﻿  main4.cpp
+D:\Classes\CS Classes\CS 409\Assingment 1\main4.cpp(680,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Classes\CS Classes\CS 409\Assingment 1\main4.cpp(680,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Classes\CS Classes\CS 409\Assingment 1\main4.cpp(690,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Classes\CS Classes\CS 409\Assingment 1\main4.cpp(690,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Classes\CS Classes\CS 409\Assingment 1\main4.cpp(700,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Classes\CS Classes\CS 409\Assingment 1\main4.cpp(700,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Assingment 1.vcxproj -> D:\Classes\CS Classes\CS 409\Assingment 1\Debug\Assingment 1.exe

@@ -1,0 +1,9 @@
+#
+#  Disk.mtl
+#
+
+newmtl disk
+illum 11
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+map_Kd Disk5.bmp
